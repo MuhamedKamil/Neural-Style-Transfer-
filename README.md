@@ -4,10 +4,8 @@ Neural style transfer (NST) is an optimization technique used to take images, a 
 # Output Aftar Training Process
 # First Example
 ![neural style transfer](https://user-images.githubusercontent.com/32080026/61582614-c91d1280-aae1-11e9-9bee-54d4cfbc72bc.JPG)
-
 # Second Example
 ![1](https://user-images.githubusercontent.com/32080026/61588753-70875d00-ab55-11e9-804c-87d50b73859f.JPG)
-
 # Training Process
 ![layers](https://user-images.githubusercontent.com/32080026/61588649-408b8a00-ab54-11e9-8f0a-cd2c42550f5a.JPG)
 ![2](https://user-images.githubusercontent.com/32080026/61588758-79782e80-ab55-11e9-8027-bf76737be55a.JPG)
